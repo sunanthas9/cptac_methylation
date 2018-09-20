@@ -12,8 +12,7 @@ Processing description
 
 The raw data from Illumina's EPIC methylation arrays were available as
 IDAT files from the CPTAC consortium. The methylation analysis was
-performed using the cross-package workflow “methylationArrayAnalysis”
-(<https://master.bioconductor.org/packages/release/workflows/html/methylationArrayAnalysis.html>)
+performed using the [cross-package workflow “methylationArrayAnalysis”](<https://master.bioconductor.org/packages/release/workflows/html/methylationArrayAnalysis.html>)
 available on Bioconductor. In brief, the raw data files (IDAT files)
 were processed to obtain the methylated (M) and unmethylated (U) signal
 intensities for each locus. The processing step included an unsupervised
